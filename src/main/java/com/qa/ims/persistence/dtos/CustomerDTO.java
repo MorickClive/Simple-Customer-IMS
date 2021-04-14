@@ -1,4 +1,4 @@
-package com.qa.ims;
+package com.qa.ims.persistence.dtos;
 
 public class CustomerDTO {
 	private Integer id;

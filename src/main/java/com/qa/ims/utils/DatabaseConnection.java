@@ -1,4 +1,4 @@
-package com.qa.ims;
+package com.qa.ims.utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
